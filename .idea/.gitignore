@@ -1,0 +1,7 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/idea/
+/migrations/
+*.sqlite3
+*.png
