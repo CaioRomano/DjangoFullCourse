@@ -3,3 +3,4 @@
 .idea/
 *.png
 /myproject/posts/migrations/
+/myproject/users/migrations/
