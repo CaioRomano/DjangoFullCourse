@@ -4,3 +4,6 @@
 *.png
 /myproject/posts/migrations/
 /myproject/users/migrations/
+/myproject/myproject/__pycache__
+/myproject/posts/__pycache__
+/myproject/users/__pycache__
